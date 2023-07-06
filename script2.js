@@ -1,0 +1,4 @@
+encryptedCode = "ZnVuY3Rpb24gXzB4ODhhOSgpe3ZhciBfMHgzMWE5PVsiXHg0OFx4NjVceDZDXHg2Q1x4NkZceDJDXHgyMFx4NTdceDZGXHg3Mlx4NkNceDY0XHgyMSIsIlx4NkNceDZGXHg2NyJdO3ZhciBfMHg5ZTBkPV8weDMxYTlbMHgwXTtjb25zb2xlW18weDMxYTlbMHgxXV0oXzB4OWUwZCl9";
+eval(atob(encryptedCode));
+//var encryptedCode = btoa(_0x88a9.toString());
+//console.log(encryptedCode);
